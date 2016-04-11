@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.androidtown.cal01application.cal01Activity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/number1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:hint="숫자 입력"
+        android:maxLength="8" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/number2"
+        android:layout_below="@+id/number1"
+        android:layout_alignParentStart="true"
+        android:hint="숫자 입력"
+        android:maxLength="8" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/number2"
+        android:layout_alignParentStart="true"
+        android:stretchColumns="*"
+        android:id="@+id/tableLayout">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:id="@+id/BtnNum0"
+                android:layout_column="0" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:id="@+id/BtnNum1"
+                android:layout_column="1" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2"
+                android:id="@+id/BtnNum2"
+                android:layout_column="2" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3"
+                android:id="@+id/BtnNum3"
+                android:layout_column="3" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4"
+                android:id="@+id/BtnNum4"
+                android:layout_column="4" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5"
+                android:id="@+id/BtnNum5"
+                android:layout_column="0" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6"
+                android:id="@+id/BtnNum6"
+                android:layout_column="1" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7"
+                android:id="@+id/BtnNum7"
+                android:layout_column="2" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8"
+                android:id="@+id/BtnNum8"
+                android:layout_column="3" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="9"
+                android:id="@+id/BtnNum9"
+                android:layout_column="4" />
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="더하기"
+        android:id="@+id/BtnAdd"
+        android:layout_below="@+id/tableLayout"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="빼기"
+        android:id="@+id/BtnSub"
+        android:layout_below="@+id/BtnAdd"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="곱하기"
+        android:id="@+id/BtnMul"
+        android:layout_below="@+id/BtnSub"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="나누기"
+        android:id="@+id/BtnDiv"
+        android:layout_below="@+id/BtnMul"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="계산 결과"
+        android:id="@+id/textView"
+        android:layout_below="@+id/BtnDiv"
+        android:layout_alignParentStart="true"
+        android:textSize="16dp"
+        android:textColor="#ea5516" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TextResult"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:textSize="24dp"
+        android:hint="계산 결과가 표시됩니다."
+        android:singleLine="false"
+        android:background="@drawable/textlinebtm" />
+</RelativeLayout>

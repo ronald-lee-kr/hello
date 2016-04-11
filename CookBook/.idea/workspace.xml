@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <devices>
+          <device id="Nexus 5" />
+          <device id="Nexus 7 2013" />
+          <device id="Nexus 4" />
+          <device id="Nexus 6" />
+        </devices>
+        <target>android-23</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/EditTextApplication/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_button.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/cal01application/src/main/res/layout/activity_cal01.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/cal2application/src/main/res/drawable/textroundedbox.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/cal2application/src/main/res/layout/activity_cal2.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/checkboxtestapplication/src/main/res/layout/activity_check_box.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/edittext_keyinapplication/src/main/res/layout/activity_edittext.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/imagebuttonapplication/src/main/res/layout/activity_image_button.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b3510ad-574b-4d5a-904f-0f7377600a64" name="Default" comment="" />
+    <list id="cfaa07a7-1c71-4d89-a2f2-e83057f48a5b" name="New changelist" comment="" />
+    <ignored path="CookBook.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CookBook" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/origin/cookbook" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="FORCE_PUSH_ALLOWED" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+    <push-targets>
+      <push-target-info repo="$PROJECT_DIR$" source="master" target-remote="origin" target-branch="readme-edit" />
+    </push-targets>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="ronald-lee-kr" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="android-test" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:\01 RL\AndroidStudioProjects\CookBook" value="17516598239218" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_button.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/androidtown/cookbook/ButtonActivity.java" />
+        <option value="$PROJECT_DIR$/exam1application/build.gradle" />
+        <option value="$PROJECT_DIR$/exam1application/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/exam1application/src/main/java/org/androidtown/exam1application/MainActivity.java" />
+        <option value="$PROJECT_DIR$/checkboxtestapplication/src/main/java/org/androidtown/checkboxtestapplication/CheckBoxActivity.java" />
+        <option value="$PROJECT_DIR$/checkboxtestapplication/src/main/res/layout/activity_check_box.xml" />
+        <option value="$PROJECT_DIR$/edittext_keyinapplication/src/main/res/layout/activity_edittext.xml" />
+        <option value="$PROJECT_DIR$/edittext_keyinapplication/src/main/java/org/androidtown/edittext_keyinapplication/edittextActivity.java" />
+        <option value="$PROJECT_DIR$/EditTextApplication/src/main/java/org/androidtown/exam1application/MainActivity.java" />
+        <option value="$PROJECT_DIR$/imagebuttonapplication/src/main/res/layout/activity_image_button.xml" />
+        <option value="$PROJECT_DIR$/backkeyapplication/src/main/java/org/androidtown/backkeyapplication/BackKeyActivity.java" />
+        <option value="$PROJECT_DIR$/backkey2application/src/main/java/org/androidtown/backkey2application/BackKey2Activity.java" />
+        <option value="$PROJECT_DIR$/backkeyapplication/src/main/java/org/androidtown/backkeyapplication/BackPressCloseHandler.java" />
+        <option value="$PROJECT_DIR$/javabuttonapplication/src/main/java/org/androidtown/javabuttonapplication/javaButtonActivity.java" />
+        <option value="$PROJECT_DIR$/cal01application/src/main/res/drawable/textlinebtm.xml" />
+        <option value="$PROJECT_DIR$/cal01application/src/main/res/layout/activity_cal01.xml" />
+        <option value="$PROJECT_DIR$/cal01application/src/main/java/org/androidtown/cal01application/cal01Activity.java" />
+        <option value="$PROJECT_DIR$/cal2application/src/main/res/drawable/textlBoader.xml" />
+        <option value="$PROJECT_DIR$/cal2application/src/main/res/layout/activity_cal2.xml" />
+        <option value="$PROJECT_DIR$/cal2application/src/main/java/org/androidtown/cal2application/cal2Activity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="241" />
+    <option name="y" value="4" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23" />
+    <property name="FullScreen" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteToolWindowManager.WIDTH" value="197" />
+    <property name="com.google.gct.idea.git.username" value="ronald.lee.kr@gmail.com" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cal2application" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01 RL\AndroidStudioProjects\CookBook\cal2application\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.cal2application">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="exam1application" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="exam1application" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="checkboxtestapplication" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="checkboxtestapplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EditTextApplication" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="EditTextApplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="edittext_keyinapplication" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="edittext_keyinapplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="imagebuttonapplication" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="imagebuttonapplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="javabuttonapplication" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="javabuttonapplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="backkeyapplication" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="backkeyapplication" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="backkey2application" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="backkey2application" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cal01application" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="cal01application" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cal2application" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="cal2application" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.exam1application" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.checkboxtestapplication" />
+      <item index="3" class="java.lang.String" itemvalue="Android Application.EditTextApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Android Application.edittext_keyinapplication" />
+      <item index="5" class="java.lang.String" itemvalue="Android Application.imagebuttonapplication" />
+      <item index="6" class="java.lang.String" itemvalue="Android Application.javabuttonapplication" />
+      <item index="7" class="java.lang.String" itemvalue="Android Application.backkeyapplication" />
+      <item index="8" class="java.lang.String" itemvalue="Android Application.backkey2application" />
+      <item index="9" class="java.lang.String" itemvalue="Android Application.cal01application" />
+      <item index="10" class="java.lang.String" itemvalue="Android Application.cal2application" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <changelist date="1460078262589">
+      <option name="PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\cd_~_android-test_git_init_git_status.patch" />
+      <option name="DESCRIPTION" value="cd ~/android-test git init git status" />
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal01application\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkeyapplication\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher1.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="imagebuttonapplication\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher2.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="edittext_keyinapplication\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher3.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="javabuttonapplication\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher4.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal01application\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher5.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher6.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkeyapplication\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher7.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal2application\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher8.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkey2application\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher9.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher10.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="javabuttonapplication\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher11.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher12.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher13.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkey2application\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher14.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkeyapplication\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher15.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkey2application\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher16.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal2application\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher17.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\drawable\tulips.jpg" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\tulips.jpg" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="imagebuttonapplication\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher18.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\drawable\chrysanthemum.jpg" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\chrysanthemum.jpg" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="imagebuttonapplication\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher19.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="edittext_keyinapplication\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher20.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="app\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher21.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal01application\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher22.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="app\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher23.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="app\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher24.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="edittext_keyinapplication\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher25.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="javabuttonapplication\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher26.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="checkboxtestapplication\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher27.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="javabuttonapplication\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher28.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="checkboxtestapplication\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher29.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkey2application\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher30.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkeyapplication\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher31.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="checkboxtestapplication\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher32.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal2application\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher33.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="app\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher34.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="gradle\wrapper\gradle-wrapper.jar" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\gradle-wrapper.jar" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="checkboxtestapplication\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher35.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="edittext_keyinapplication\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher36.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="EditTextApplication\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher37.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal01application\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher38.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkeyapplication\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher39.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="app\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher40.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="javabuttonapplication\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher41.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="imagebuttonapplication\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher42.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal2application\src\main\res\mipmap-hdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher43.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="edittext_keyinapplication\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher44.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="checkboxtestapplication\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher45.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal01application\src\main\res\mipmap-xxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher46.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="imagebuttonapplication\src\main\res\mipmap-xxxhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher47.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="cal2application\src\main\res\mipmap-mdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher48.png" />
+      </binary>
+      <binary>
+        <option name="BEFORE_PATH" />
+        <option name="AFTER_PATH" value="backkey2application\src\main\res\mipmap-xhdpi\ic_launcher.png" />
+        <option name="SHELVED_PATH" value="D:\01 RL\AndroidStudioProjects\CookBook\.idea\shelf\ic_launcher49.png" />
+      </binary>
+    </changelist>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3510ad-574b-4d5a-904f-0f7377600a64" name="Default" comment="" />
+      <changelist id="cfaa07a7-1c71-4d89-a2f2-e83057f48a5b" name="New changelist" comment="" />
+      <created>1459404255019</created>
+      <option name="number" value="Default" />
+      <updated>1459404255019</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1460073491425</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460073491425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1460074195295</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1460074195295</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cd ~/android-test&#10;git init&#10;git status">
+      <created>1460078263889</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1460078263889</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git add .&#10;">
+      <created>1460078418030</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1460078418030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git add .&#10;">
+      <created>1460080252476</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1460080252477</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git add .&#10;">
+      <created>1460080502731</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1460080502731</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git add .&#10;">
+      <created>1460080605129</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1460080605129</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="241" y="4" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977462" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2097015" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
+    <MESSAGE value="test" />
+    <MESSAGE value="git remote v&#10;" />
+    <MESSAGE value="git push&#10;" />
+    <MESSAGE value="git add&#10;" />
+    <MESSAGE value="push origin master" />
+    <MESSAGE value="cd ~/android-test&#10;git init&#10;git status" />
+    <MESSAGE value="git add .&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EditTextApplication/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagebuttonapplication/src/main/res/layout/activity_image_button.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagebuttonapplication/src/androidTest/java/org/androidtown/imagebuttonapplication/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24813433">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagebuttonapplication/src/main/java/org/androidtown/imagebuttonapplication/imageButtonActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cal2application/src/main/res/drawable/textroundedbox.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21007371">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_button.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backkey2application/src/main/res/layout/activity_back_key2.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backkey2application/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backkey2application/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backkey2application/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backkey2application/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
